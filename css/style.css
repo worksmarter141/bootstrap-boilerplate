@@ -1,0 +1,38 @@
+.nav-background {
+    background-color: black;
+    color: antiquewhite;
+}
+
+.left-column {
+    background-color: aquamarine;
+    color: black;
+    height: 60vh;
+}
+
+.right-column {
+    background-color: lightsalmon;
+    color: black;
+    height: 60vh;
+
+}
+
+.footer {
+    background-color: black;
+    color: antiquewhite;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+li {
+    display: flex;
+    align-items: center;
+}
